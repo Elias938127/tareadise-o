@@ -1,0 +1,177 @@
+header{
+    width: 30%; /*ancho*/
+    height: 1800px; /*altura*/
+    background-color: rgb(25, 33, 43);
+    /*margenes izp y dere*/
+    margin-left: 0%;
+    margin-top: 0px;  /* le da un espacio parque no este junto*/
+padding: 0px;
+float: left;
+border-radius: 0px; /*bordes redodiados*/
+border: 0px dashed; /*aplicando grosor y estilo al borde*/
+
+}
+nav{
+    width: 45%; /*ancho*/
+    height: 1800px; /*altura*/
+    background-color: rgb(25, 33, 43);    /*margenes izp y dere*/
+    margin-left: 0%;
+    margin-top: 0px;  /* le da un espacio parque no este junto*/
+padding: 0px;
+float: left;
+border-radius: px; /*bordes redodiados*/
+border: 0px dashed; /*aplicando grosor y estilo al borde*/
+
+}
+section{
+
+    width: 25%; /*ancho*/
+    height: 1800px; /*altura*/
+    background-color: rgb(25, 33, 43);    /*margenes izp y dere*/
+    margin-left: 0%;
+    margin-top: 0px;  /* le da un espacio parque no este junto*/
+padding: 0px;
+float: right;
+border-radius: 0px; /*bordes redodiados*/
+border: 0px ; /*aplicando grosor y estilo al borde*/
+
+}
+h3{
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+    
+}
+button{
+    color: aliceblue;
+    margin-top: 0px;
+    margin-left: 80px;
+background-color: rgb(87, 114, 204);
+width: 50%;
+height: 3%;
+text-align: center;
+border: 14ch;
+}
+fieldset img{
+    float: left;
+    border-radius: 5ch;/*este es para poner la foto en circulo*/
+
+}
+fieldset input{
+height: 50px;
+width:  80%;
+color: rgb(62, 94, 122);
+}
+h4{
+    color: antiquewhite;
+}
+b{
+    color: antiquewhite;
+}
+footer img{
+   
+    border-radius: 0ch;/*este es para poner la foto en circulo*/
+
+}
+div {
+    color: aliceblue;
+    padding: 1%;
+}
+a{
+    color: aliceblue;
+    
+}
+
+.futbol a{
+    text-decoration: none;
+    color: rgb(243, 235, 235);
+    text-transform:uppercase;
+    padding: 15px;
+ 
+   
+
+    
+}
+nav a:hover{
+    color: rgb(39, 4, 238);
+}
+.container {  
+    border-radius: 1%;
+    
+    float: right;
+    width: 97%;
+    color: rgb(0, 0, 0);
+    background-color:#17191b;
+    grid-template-columns: 0.5fr;
+    grid-template-rows: 0.3fr 2.8fr;
+    gap: px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "."
+      ".";
+  }
+.mundo a {
+    text-decoration: none;
+    color: rgb(240, 229, 229);
+}
+.mundo a:hover{
+    color: rgb(124, 103, 103);
+
+}
+.mundo img{
+    margin-right: 15px;
+    padding: 0%;
+}
+.container p{
+    color: rgb(168, 172, 175);
+    padding: 10px; /*este comando sirve para darle un espacio y para que no se vea junto*/
+   
+}
+.container img{
+    float: right ;
+}
+.container h4{
+    padding: 10px;
+
+}
+.container a{
+    text-decoration: none; /*este es para que le quite el subrrallado al enlace*/
+}
+.container h1{
+    padding: 10px;
+    color: aliceblue;
+}
+.formulario{
+    height: 3%;
+    float: none;
+    width: 75%;
+    text-align: center;
+    text-transform:uppercase;
+    padding-right: 10%;
+    align-items: center;
+   
+}
+
+.funcion{
+    padding: 5%;
+    float: right;
+}
+.funcion h4{
+    align-items: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
